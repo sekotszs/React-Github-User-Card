@@ -5,6 +5,7 @@ function Usercard(props) {
  
     return (
       <div>
+          <h1>My Github</h1>
         <p>{props.user.login}</p>
         <img src={props.user.avatar_url}></img>
         <div>

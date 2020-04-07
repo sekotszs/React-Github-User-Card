@@ -5,9 +5,14 @@ body{
     text-align: center;
     font-size: 50px;
     color: white;
+    border: lavender 25px solid;
+    font-style: italic;
 }
 
 img{
     border-radius: 25px;
     border: dotted white 10px;
+    background-color: black;
+    padding: 10px;
 }
+
